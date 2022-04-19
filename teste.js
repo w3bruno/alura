@@ -7,3 +7,5 @@ console.log(cifrao);
 console.log(aMaiusculo);
 console.log(tique);
 console.log(hiragana);
+
+// Nova aula
